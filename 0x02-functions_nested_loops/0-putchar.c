@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
- * main - entry point
- * _putchar : print the alphabets _putchar
- * Return: Always (0)
+ * main - Entry point
+ * Description - Print _putchar
+ * Return: 0
  */
 
 int main(void)
@@ -14,6 +15,7 @@ int main(void)
 	{
 		_putchar(c[i]);
 		i++;
-	}	
+	}
+
 	return (0);
 }
