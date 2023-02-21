@@ -3,7 +3,7 @@
 /**
  * _abs - Entry point
  * Description - Print absolute value
- * @n: Interger of Abs Value
+ * @n: Integer of Abs value
  * Return: int
  */
 
@@ -14,7 +14,7 @@ int _abs(int n)
 		return (-n);
 	}
 	else
-	{ 
+	{
 		return (n);
 	}
 }
