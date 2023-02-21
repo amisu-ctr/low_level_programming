@@ -6,13 +6,13 @@
  * Return: void
  */
 
-void time_table(void)
+void times_table(void)
 {
 	int i, j, ans, tens, unit;
 
 	for (i = 0; i <= 9; i++)
 	{
-		for (j = 0; j <= 9: j++)
+		for (j = 0; j <= 9; j++)
 		{
 			ans = i * j;
 			tens = ans / 10;
