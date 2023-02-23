@@ -17,3 +17,4 @@ void print_line(int n)
 		a++;
 	}
 	_putchar('\n');
+}
