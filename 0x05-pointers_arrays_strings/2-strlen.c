@@ -2,7 +2,7 @@
 
 /**
  * _strlen - function to return legnth of string
- * @*s: string to return
+ * @s: string to return
  * Return: int length of the string
  */
 
